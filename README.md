@@ -14,7 +14,7 @@ An end-to-end data analytics project analyzing child nutrition inequalities in N
 
 ### Education Inequality
 
-![Education Inequality](Dashboard%20Screenshots/Education%20Inequality.png)
+![Educational Inequality](Dashboard%20Screenshots/Educational%20Inequality.png)
 
 ### Rural vs Urban
 
