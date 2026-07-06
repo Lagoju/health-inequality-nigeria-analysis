@@ -14,15 +14,15 @@ An end-to-end data analytics project analyzing child nutrition inequalities in N
 
 ### Education Inequality
 
-![Education Dashboard](screenshots/education_dashboard.png)
+![Education Inequality](Dashboard%20Screenshots/Education%20Inequality.png)
 
 ### Rural vs Urban
 
-![Residence Dashboard](screenshots/residence_dashboard.png)
+![Residence Inequality](Dashboard%20Screenshots/Residence%20Inequality.png)
 
 ### Findings & Recommendations
 
-![Findings](screenshots/findings_dashboard.png)
+![Key Findings](Dashboard%20Screenshots/Key%20Findings.png)
 ---
 
 ## Project Overview
