@@ -1,3 +1,4 @@
+
 # Power BI
 
 Power BI was used to develop an interactive dashboard that communicates health inequality across Nigeria.
@@ -9,3 +10,11 @@ Power BI was used to develop an interactive dashboard that communicates health i
 - Education Inequality
 - Residence Inequality
 - Findings & Recommendations
+
+## Features
+
+- Interactive slicers
+- KPI cards
+- DAX measures
+- Navigation buttons
+- Dynamic titles
