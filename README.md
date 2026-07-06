@@ -220,7 +220,19 @@ health-inequality-nigeria-analysis/
 ├── Dashboard Screenshots/
 └── README.md
 ```
+## Skills Demonstrated
 
+- Data Cleaning
+- SQL Server
+- Data Validation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Design
+- DAX Measures
+- Power BI
+- Business Intelligence
+- Data Storytelling
+- GitHub Documentation
 ---
 
 ## Future Improvements
