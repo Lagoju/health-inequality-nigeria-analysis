@@ -6,11 +6,7 @@ An end-to-end data analytics project analyzing child nutrition inequalities in N
 
 ## Dashboard Preview
 
-> *(Insert a screenshot of your Executive Summary dashboard here.)*
-
-Example:
-
-![Executive Dashboard](screenshots/executive_summary.png)
+![Executive Summary](Dashboard Screenshots/Executive Summary.png)
 
 ---
 
