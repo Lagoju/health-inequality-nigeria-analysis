@@ -6,7 +6,7 @@ An end-to-end data analytics project analyzing child nutrition inequalities in N
 
 ## Dashboard Preview
 
-![Executive Summary](Dashboard Screenshots/Executive Summary.png)
+![Executive Summary](Dashboard%20Screenshots/Executive%20Summary.png)
 
 ---
 
